@@ -3,7 +3,7 @@
 * "*" Sem projetos entregues
 * 0,1 = Entraga de projetos zipados.
 * Notas 11 ou + considere que será lançado 10 no sistema.
-* 
+  
 ** Todas as notas em N1 tem acrescimo de 0,5. 
 
 
