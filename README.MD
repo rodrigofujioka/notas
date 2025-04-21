@@ -12,13 +12,13 @@
 **UNIESP - CABEDELO**  
 **Curso:** Sistemas de Informação (Noite)  
 
-- `SI.N.P4B.411` – Computação em Nuvem [[SI.N.P4B.411.md]]  
+- `SI.N.P4B.411` – Computação em Nuvem  [Ver turma](cloudB_20251.md)   
 
 **UNIESP - CABEDELO**  
 **Curso:** Sistemas para Internet (Noite)  
 
-- `SINT.N.P3A.412` – Tecnologia para Back-End [[SINT.N.P3A.412.md]]  
-- `SINT.N.P4A.412` – Computação em Nuvem [[SINT.N.P4A.412.md]]  
+- `SINT.N.P3A.412` – Tecnologia para Back-End [Ver turma](techback_20251.md)
+- `SINT.N.P4A.412` – Computação em Nuvem [Ver turma](cloudA_20251.md)   
 
 ---
 
@@ -65,7 +65,7 @@
 **UNIESP - CABEDELO**  
 **Curso:** Sistemas de Informação (Noite)  
 
-- `146086` – Tecnologias para Back-End I [146086.md](146086/146086.md) 
+- `146086` – Tecnologias para Back-End I [Ver turma](146086/146086.md) 
 - `146087` – Projeto Integrador - Fundamentos de Sistemas Web [[146087.md]]  
 - `146100` – Computação em Nuvem TA [[146100.md]]  
 - `146660` – Computação em Nuvem TB [[146660.md]]  
