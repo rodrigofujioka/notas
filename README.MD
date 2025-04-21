@@ -13,10 +13,6 @@
 **Curso:** Sistemas de Informação (Noite)  
 
 - `SI.N.P4B.411` – Computação em Nuvem  [Ver turma](cloudB_20251.md)   
-
-**UNIESP - CABEDELO**  
-**Curso:** Sistemas para Internet (Noite)  
-
 - `SINT.N.P3A.412` – Tecnologia para Back-End [Ver turma](techback_20251.md)
 - `SINT.N.P4A.412` – Computação em Nuvem [Ver turma](cloudA_20251.md)   
 
@@ -30,10 +26,6 @@
 **Curso:** Sistemas de Informação (Noite)  
 
 - `SI.N.P4B.411` – Computação em Nuvem [[SI.N.P4B.411.md]]  
-
-**UNIESP - CABEDELO**  
-**Curso:** Sistemas para Internet (Noite)  
-
 - `SINT.N.P3A.412` – Tecnologia para Back-End [[SINT.N.P3A.412.md]]  
 - `SINT.N.P4A.412` – Computação em Nuvem [[SINT.N.P4A.412.md]]  
 
