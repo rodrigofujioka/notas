@@ -1,4 +1,4 @@
-# 📚 Raiz Acadêmica do Professor Rodrigo Fujioka
+# 📚 Root Docente do Professor Rodrigo Fujioka
 
 **👥 Alunos ensinados:** ___  
 **📘 Turmas ensinadas:** 17  
