@@ -65,7 +65,7 @@
 **UNIESP - CABEDELO**  
 **Curso:** Sistemas de Informação (Noite)  
 
-- `146086` – Tecnologias para Back-End I [https://github.com/rodrigofujioka/notas/146086/146086.md]]  
+- `146086` – Tecnologias para Back-End I [/146086/146086.md]]  
 - `146087` – Projeto Integrador - Fundamentos de Sistemas Web [[146087.md]]  
 - `146100` – Computação em Nuvem TA [[146100.md]]  
 - `146660` – Computação em Nuvem TB [[146660.md]]  
